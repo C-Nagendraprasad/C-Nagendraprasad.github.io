@@ -1,0 +1,284 @@
+.logo-img {
+    height: 80px;
+    width: 80px;
+}
+
+#nav-link-item0 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#nav-link-item1 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#nav-link-item2 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#nav-link-item3 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#nav-link-item4 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#nav-link-item5 {
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.container-background-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.container-background-section-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.container-background-section-paragraph {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.button-btn {
+    color: white;
+    background-color: #d0b200;
+    width: 100px;
+    font-family: "Roboto";
+    font-size: 13px;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    height: 35px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 100px;
+    height: 35px;
+    font-size: 13px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+
+}
+
+.w-c-u-section {
+    background-color: #f9fbfe;
+}
+
+.w-c-u-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.w-c-u-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.img-src {
+    width: 87px;
+    height: 90px;
+}
+
+.food-serve-section-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.food-serve-section-paragraph {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.card-section {
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.Offers {
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.explore-menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.explore-card-section {
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.card-image {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.explore-menu {
+    background-color: white;
+    border-radius: 20px;
+}
+
+.explore-card-section-paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.media-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-img-src {
+    width: 100%;
+}
+
+.healthy-food-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.healthy-food-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.delivery-payment-section-img {
+    width: 100%;
+}
+
+.delivery-and-payment-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.delivery-and-payment-section-paragraph {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.Thanking-section {
+    background-image: radial-gradient(#fff8db, #fae38c);
+    width: 100%;
+    background-color: #d0b2001a;
+}
+
+.ts-img-src {
+    height: 380px;
+    width: 270px;
+}
+
+.Thanking-section-heading {
+    padding-top: 15px;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #183b56;
+}
+
+.Thanking-section-paragraph {
+    font-family: "Roboto";
+    color: #5a7184;
+}
+
+.img-src-1 {
+    height: 70px;
+    width: 70px;
+}
+
+.icon {
+    color: #d0b200;
+}
+
+.Follow-Us-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.bg-followus {
+    background-color: #faf7e8;
+    width: 70px;
+    padding: 10px;
+    margin: 10px;
+    height: 70px;
+    border-radius: 40px;
+}
+
+.Footer-section {
+    background-color: #0d2436;
+
+}
+
+.img-src2 {
+    height: 60px;
+    width: 60px;
+}
+
+.footer-heading {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px
+}
+
+.footer-paragraph {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
